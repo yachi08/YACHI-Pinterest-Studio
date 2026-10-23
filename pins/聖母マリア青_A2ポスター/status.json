@@ -1,9 +1,9 @@
 {
   "pin_set_name": "聖母マリア青_A2ポスター",
   "theme": "青と黄色の聖母マリアのアートポスターを、作品の魅力から知ってもらう",
-  "status": "ready_to_post",
+  "status": "posted",
   "created_at": "2026-10-23T11:47:01+00:00",
-  "updated_at": "2026-10-23T22:00:00+09:00",
+  "updated_at": "2026-10-23T23:00:00+09:00",
   "approvals": {
     "material_scope": {
       "approved": null,
@@ -21,9 +21,11 @@
       "title": "聖母マリアのアートポスター｜青と黄色の花と装飾で描いたNECLEFXの作品",
       "board": "NECLEFX アートポスター",
       "link": "https://neclefx.base.shop/items/162238510",
-      "url": null,
-      "posted_at": null,
-      "image": "images/pin1.jpg"
+      "url": "https://pin.it/7gbNolDhC",
+      "posted_at": "2026-10-23",
+      "image": "images/pin1.jpg",
+      "ai_label": true,
+      "product_tag": true
     },
     {
       "title": "青と黄色の聖母マリア｜A2アートポスター",
@@ -57,5 +59,6 @@
       "posted_at": null,
       "image": "images/pin5.jpg"
     }
-  ]
+  ],
+  "note": "ピン1のみ投稿済み。ピン2〜5は1日1〜2本ずつ投稿予定"
 }
