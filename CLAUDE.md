@@ -2,6 +2,8 @@
 
 このリポジトリは、YACHIさんの個人ブランド「焼鳥屋の若女将｜焼鳥屋の未来づくり」をPinterestで広げるAI会社である。体制と方針は`会社概要.md`を読む。
 
+運用するPinterestアカウントは https://jp.pinterest.com/neclefx/ である。
+
 ## AI社員
 
 1. 社長: `pinterest-president`（全工程と進捗を管理）
