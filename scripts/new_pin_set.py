@@ -57,7 +57,7 @@ def main() -> int:
         "# ピン企画\n\n"
         f"- 企画名: {args.name.strip()}\n"
         f"- テーマ: {args.theme.strip() or '未設定'}\n"
-        "- 狙う読者:\n- 誘導先:\n- 社長がこのテーマを選んだ理由:\n",
+        "- 取り上げる商品:\n- 商品ページURL:\n- 狙う人:\n- 社長がこの商品とテーマを選んだ理由:\n",
         encoding="utf-8",
     )
     print(destination)
