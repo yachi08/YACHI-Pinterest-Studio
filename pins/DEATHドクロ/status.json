@@ -1,18 +1,52 @@
 {
   "pin_set_name": "DEATHドクロ",
   "theme": "ブランドの顔（アイコン）になっているDEATHの絵を、商品として知ってもらう",
-  "status": "idea",
+  "status": "owner_review",
   "created_at": "2026-10-23T12:25:28+00:00",
-  "updated_at": "2026-10-23T12:25:28+00:00",
+  "updated_at": "2026-10-24T12:00:00+09:00",
   "approvals": {
     "material_scope": {
-      "approved": null,
-      "approved_at": null
+      "approved": true,
+      "approved_at": "2026-10-24",
+      "note": "DEATHはタロットカード風ステッカーの商品（YACHIさん回答）"
     },
     "package": {
       "approved": false,
       "approved_at": null
     }
   },
-  "pins": []
+  "pins": [
+    {
+      "title": "DEATH｜タロットカード風ステッカー｜ピンクの花模様のドクロ NECLEFX",
+      "board": "NECLEFX ステッカー",
+      "link": "https://neclefx.base.shop/items/162767604",
+      "image": "images/pin1.jpg",
+      "url": null,
+      "posted_at": null
+    },
+    {
+      "title": "タロットカード風ステッカー｜DEATH ドクロとバラ NECLEFX",
+      "board": "NECLEFX ステッカー",
+      "link": "https://neclefx.base.shop/items/162767604",
+      "image": "images/pin2.jpg",
+      "url": null,
+      "posted_at": null
+    },
+    {
+      "title": "花模様のドクロを近くで｜タロットカード風ステッカー DEATH",
+      "board": "NECLEFX ステッカー",
+      "link": "https://neclefx.base.shop/items/162767604",
+      "image": "images/pin3.jpg",
+      "url": null,
+      "posted_at": null
+    },
+    {
+      "title": "XIII DEATH｜END・TRANSFORMATION・REBIRTH タロットカード風ステッカー",
+      "board": "NECLEFX ステッカー",
+      "link": "https://neclefx.base.shop/items/162767604",
+      "image": "images/pin4.jpg",
+      "url": null,
+      "posted_at": null
+    }
+  ]
 }
