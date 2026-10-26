@@ -1,17 +1,19 @@
 {
   "pin_set_name": "STRENGTHドクロ",
   "theme": "タロットカード風ステッカーのシリーズとして、STRENGTHを知ってもらう",
-  "status": "owner_review",
+  "status": "ready_to_post",
   "created_at": "2026-10-26T16:06:47+00:00",
-  "updated_at": "2026-10-26T15:00:00+09:00",
+  "updated_at": "2026-10-26T16:00:00+09:00",
   "approvals": {
     "material_scope": {
-      "approved": null,
-      "approved_at": null
+      "approved": true,
+      "approved_at": "2026-10-26",
+      "note": "「タロットカード風ステッカー」と書いた投稿パッケージの承認で、商品と判断。はい・いいえの明示の回答はなし"
     },
     "package": {
-      "approved": false,
-      "approved_at": null
+      "approved": true,
+      "approved_at": "2026-10-26",
+      "note": "ピン4本を承認。商品ページURLはYACHIさんが貼る"
     }
   },
   "pins": [
