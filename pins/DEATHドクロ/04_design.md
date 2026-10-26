@@ -10,6 +10,6 @@
 | 4 | 上に絵の全体、下の黒地にカードの言葉 | XIII DEATH／END・TRANSFORMATION・REBIRTH | 約1.15倍 |
 
 - 作成した下書き：`images/pin1.jpg`〜`pin4.jpg`、一覧は`images/一覧.jpg`
-- 作成スクリプト：`scripts/make_pins_DEATH.py`
+- 作成スクリプト：`scripts/make_pins_tarot.py（引数 "XIII  DEATH" "END・TRANSFORMATION・REBIRTH"）`
 - ピン3は約2倍の拡大。一覧では大きな荒れはないが、スマホで粗ければ見送る
 - 実物を貼った写真は今回なし。届いたら、次の追加ピンで使う

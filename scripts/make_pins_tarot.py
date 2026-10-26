@@ -1,8 +1,11 @@
+# タロットカード風ステッカーのピン画像を作る。
+# 使い方: python3 make_pins_tarot.py 元画像 出力先 "XV  THE DEVIL" "DESIRE・SHADOW・AWAKENING" [文字色16進]
 import sys
 from PIL import Image, ImageDraw, ImageFont
-src, out = sys.argv[1], sys.argv[2]
+src, out, title, words = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4]
 im = Image.open(src).convert("RGB")
 W, H = 1000, 1500
+accent = tuple(int(sys.argv[5][i:i+2], 16) for i in (0, 2, 4)) if len(sys.argv) > 5 else (230, 80, 140)
 FONT = "/usr/share/fonts/opentype/ipafont-gothic/ipagp.ttf"
 
 def font(size): return ImageFont.truetype(FONT, size)
@@ -23,7 +26,7 @@ ctext(d, 1270, "タロットカード風ステッカー", 64, (255, 255, 255)); 
 c = im.crop((0, 120, 512, 888)).resize((W, H), Image.LANCZOS); c.save(f"{out}/pin3.jpg", quality=92)
 # 4: card + words on the card
 c = Image.new("RGB", (W, H), (0, 0, 0)); p = fit_h(im, 1180); c.paste(p, ((W - p.width) // 2, 30)); d = ImageDraw.Draw(c)
-ctext(d, 1260, "XIII  DEATH", 72, (255, 255, 255)); ctext(d, 1370, "END・TRANSFORMATION・REBIRTH", 38, (230, 80, 140)); c.save(f"{out}/pin4.jpg", quality=92)
+ctext(d, 1260, title, 72, (255, 255, 255)); ctext(d, 1370, words, 38, accent); c.save(f"{out}/pin4.jpg", quality=92)
 
 sheet = Image.new("RGB", (4 * 400 + 5 * 20, 600 + 80), (240, 240, 240)); d = ImageDraw.Draw(sheet)
 for i in range(4):

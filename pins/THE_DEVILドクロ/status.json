@@ -1,18 +1,52 @@
 {
   "pin_set_name": "THE_DEVILドクロ",
   "theme": "タロットカード風ステッカーのシリーズとして、THE DEVILを知ってもらう",
-  "status": "idea",
+  "status": "owner_review",
   "created_at": "2026-10-26T15:56:43+00:00",
-  "updated_at": "2026-10-26T15:56:43+00:00",
+  "updated_at": "2026-10-26T12:00:00+09:00",
   "approvals": {
     "material_scope": {
-      "approved": null,
-      "approved_at": null
+      "approved": true,
+      "approved_at": "2026-10-26",
+      "note": "THE DEVILはDEATHと同じタロットカード風ステッカーの商品（YACHIさん回答）"
     },
     "package": {
       "approved": false,
       "approved_at": null
     }
   },
-  "pins": []
+  "pins": [
+    {
+      "title": "THE DEVIL｜タロットカード風ステッカー｜角のあるドクロと紫のバラ NECLEFX",
+      "board": "NECLEFX ステッカー",
+      "link": null,
+      "image": "images/pin1.jpg",
+      "url": null,
+      "posted_at": null
+    },
+    {
+      "title": "タロットカード風ステッカー｜THE DEVIL 緑と紫のドクロ NECLEFX",
+      "board": "NECLEFX ステッカー",
+      "link": null,
+      "image": "images/pin2.jpg",
+      "url": null,
+      "posted_at": null
+    },
+    {
+      "title": "角のあるドクロを近くで｜タロットカード風ステッカー THE DEVIL",
+      "board": "NECLEFX ステッカー",
+      "link": null,
+      "image": "images/pin3.jpg",
+      "url": null,
+      "posted_at": null
+    },
+    {
+      "title": "XV THE DEVIL｜DESIRE・SHADOW・AWAKENING タロットカード風ステッカー",
+      "board": "NECLEFX ステッカー",
+      "link": null,
+      "image": "images/pin4.jpg",
+      "url": null,
+      "posted_at": null
+    }
+  ]
 }
