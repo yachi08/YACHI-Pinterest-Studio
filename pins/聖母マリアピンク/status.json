@@ -3,11 +3,12 @@
   "theme": "ピンクの聖母マリアのアートポスターを、青と並ぶシリーズとして知ってもらう",
   "status": "ready_to_post",
   "created_at": "2026-10-26T16:16:22+00:00",
-  "updated_at": "2026-10-26T22:00:00+09:00",
+  "updated_at": "2026-10-26T23:00:00+09:00",
   "approvals": {
     "material_scope": {
-      "approved": null,
-      "approved_at": null
+      "approved": true,
+      "approved_at": "2026-10-26",
+      "note": "A2アートポスター（フレームなし、額縁は撮影用）とYACHIさんが回答"
     },
     "package": {
       "approved": true,
@@ -46,8 +47,7 @@
       "link": "https://neclefx.base.shop/items/162238631",
       "image": "images/pin4.jpg",
       "url": null,
-      "posted_at": null,
-      "hold": "A2・フレームなしの確認待ち"
+      "posted_at": null
     },
     {
       "title": "「Ars longa, vita brevis.」の文字が入ったピンクの聖母マリアのアートポスター",
